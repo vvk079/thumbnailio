@@ -1,0 +1,14 @@
+{
+    "name": "thumb-io-root",
+    "private": true,
+    "workspaces": [
+        "client",
+        "server"
+    ],
+    "scripts": {
+        "server-install": "npm install --prefix server",
+        "server-build": "npm run build --prefix server",
+        "client-install": "npm install --prefix client",
+        "client-build": "npm run build --prefix client"
+    }
+}
