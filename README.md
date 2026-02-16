@@ -74,8 +74,8 @@ Thumb-io is a full-stack web application that leverages Google's Gemini AI to ge
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/0dux/thumb-io.git
-   cd thumb-io
+   git clone https://github.com/vvk079/thumbnailio.git
+   cd thumbnailio
    ```
 
 2. **Install dependencies**
@@ -149,7 +149,7 @@ PORT=3000
 ## Project Structure
 
 ```
-thumb-io/
+thumbnailio/
 ├── client/                 # React frontend
 │   ├── src/
 │   │   ├── assets/         # Static assets & constants
